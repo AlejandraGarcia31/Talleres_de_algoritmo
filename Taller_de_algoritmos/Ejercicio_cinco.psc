@@ -1,8 +1,8 @@
 Algoritmo Ejercicio_cinco
 	//Entradas
-	Escribir "Digite primer digito: "
+	Escribir "Digite primer numero: "
 	Leer Numero_uno
-	Escribir "Digite segundo digito: "
+	Escribir "Digite segundo numero: "
 	Leer Numero_dos
 	//Caja negra
 	Resultado_uno<-(Numero_uno+Numero_dos)

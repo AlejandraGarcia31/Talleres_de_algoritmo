@@ -1,4 +1,4 @@
-Algoritmo Inicio_numero_invertido
+Algoritmo Ejercicio_quince
 	// entradas
 	Escribir "Digite un numero: "
 	Leer n

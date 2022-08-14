@@ -1,4 +1,4 @@
-Algoritmo Inicio_programa
+Algoritmo Ejercicio_ocho
 	//entradas
 	Escribir "digite minutos: "
 	Leer minutos

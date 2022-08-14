@@ -1,7 +1,8 @@
 Algoritmo Ejercicio_doce
 	//Entradas
-	Escribir "Digite dos nuemeros: "
+	Escribir "Digite el primer numero: "
 	Leer Numero_uno
+	Escribir "Digite el segundo numero: "
 	Leer Numero_dos
 	//caja negra
 	distancia<-abs(Numero_uno-Numero_dos)
